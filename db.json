@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "asus",
+      "price": "1000$",
+      "publish": true,
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20200824120814.jpg"
+    },
+    {
+      "id": 2,
+      "title": "msi",
+      "price": "1200$",
+      "publish": true,
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20200824120814.jpg"
+    },
+    {
+      "id": 3,
+      "title": "hp",
+      "price": "1500$",
+      "publish": false,
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20200824120814.jpg"
+    },
+    {
+      "id": 4,
+      "title": "acer",
+      "price": "2000$",
+      "publish": false,
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20200824120814.jpg"
+    },
+    {
+      "id": 5,
+      "title": "acer",
+      "price": "2000$",
+      "publish": false,
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20200824120814.jpg"
+    },
+    {
+      "id": 6,
+      "title": "acer",
+      "price": "2000$",
+      "publish": false,
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20200824120814.jpg"
+    }
+  ]
+}
